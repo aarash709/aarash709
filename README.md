@@ -11,10 +11,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--->
 - ⚡ Fun fact: I`m always learning cool things.
+-->
 
 ## My activity and stats
 ![arash github stats](https://github-readme-stats.vercel.app/api?username=aarash709&show_icons=true)
+<!--
 ## Languages I use the most
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarash709&layout=compact)
+-->
