@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![arash github stats](https://github-readme-stats.vercel.app/api?username=aarash709&show_icons=true)
 -->
 <p align = "center">
-<a herf="https://github.com/aarash709"><img alt= "Github Status" src="https://github-readme-stats.vercel.app/api?username=aarash709&show_icons=true"><a/>
+<a herf="https://github.com/aarash709"><img alt= "Github Status" src="https://github-readme-stats.vercel.app/api?username=aarash709&hide=contribs&show_icons=true"><a/>
 </p>
