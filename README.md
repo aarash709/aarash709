@@ -1,3 +1,3 @@
 <p align = "center">
-<a herf="https://github.com/aarash709"><img alt= "Github Status" src="https://github-readme-stats.vercel.app/api?username=aarash709&hide=contribs&show_icons=true&include_all_commits=true"><a/>
+<a herf="https://github.com/aarash709"><img alt= "Github Status" src="https://github-readme-stats.vercel.app/api?username=aarash709&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"><a/>
 </p>
